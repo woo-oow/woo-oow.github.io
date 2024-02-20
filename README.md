@@ -1,4 +1,4 @@
 # woo-oow.github.io
 
-* [/OnscreenKeyboard/](/OnscreenKeyboard/)
-* [/timewebsite](/timewebsite)
+* [/OnscreenKeyboard/](/OnscreenKeyboard/) repo https://github.com/woo-oow/OnscreenKeyboard
+* [/timewebsite](/timewebsite) repo https://github.com/woo-oow/timewebsite
